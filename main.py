@@ -160,6 +160,8 @@ class CRM:
         else:
             print(f"ID: {d.talep_id} | Musteri bulunamadi | {d.aciklama}")
 
+
+# ============ Menu ==========
 def menu():
     crm = CRM()
 
